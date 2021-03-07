@@ -2,7 +2,6 @@
 <html>
 <head>
 <title>
-FARDIN
 </title>
 </head>
 <form action="/action_page.php" method="post">
@@ -13,8 +12,7 @@ FARDIN
 
 <label for="lname">Last name:</label>
 <input type="text" id="lname" name="lname"><br><br>
-<label for="email"> Email:</label>
-<input type="text" id="email" name="email"><br><br>
+
 <input type="radio" id="male" name="gender" value="male">
 <label for="male">Male</label><br>
 
